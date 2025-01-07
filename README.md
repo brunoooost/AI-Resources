@@ -12,17 +12,19 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
  
 
 ## 📋 Content 
-  - [AI Programming](#1--ai-programming)
-  - [AI Cybersecurity](#2--ai-cybersecurity)
-  - AI
-  - AI
-  - AI
+  - [Programming](#1--programming)
+  - [Cybersecurity](#2--cybersecurity)
+  - [Content Creation](#3--content-creation)
+  - [Data Analysis](#4--data-analysis) 
+  - [Design](#5--Design)
+  - [Education](#6--Education)
+  - [Productivity](#7--Productivity) 
 
 
 
 
 
-#### 1 [↑](#-content) AI Programming  
+#### 1 [↑](#-content) Programming  
 
 | Tool                                                  | Description                                                                                                                                                                                                           |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +38,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [DeepCode](https://www.deepcode.ai/)                  | Function: AI code review tool that finds bugs and optimizes performance. Advantage: Focuses on improving code quality and collaboration efficiency in teams.                                                           |
 
 
-#### 2 [↑](#-content) AI Cybersecurity  
+#### 2 [↑](#-content) Cybersecurity  
 
 | Tool                                               | Description                                                                                                                                                                                       |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,7 +53,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Intezer Analyze](https://www.intezer.com/)        | Function: Malware analysis and threat intelligence using genetic code analysis. Advantage: Ideal for identifying code reuse across malware families.                                              |  
 
 
-#### 3 [↑](#-content) AI Content Creation  
+#### 3 [↑](#-content) Content Creation  
 
 | Tool                                             | Description                                                                                                                                                                       |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +65,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Runway ML](https://runwayml.com/)               | Function: AI for creative projects, including video editing, image generation, and background removal. Advantage: Accessible for artists and creators with minimal tech skills.   |
 
 
-#### 4 [↑](#-content) AI Data Analysis  
+#### 4 [↑](#-content) Data Analysis  
 
 | Tool                                           | Description                                                                                                                                                                   |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +77,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [MonkeyLearn](https://monkeylearn.com/)        | Function: Text analysis and data visualization using AI. Advantage: Ideal for sentiment analysis, keyword extraction, and custom data classification.                        |
 
 
-#### 5 [↑](#-content) AI Design  
+#### 5 [↑](#-content) Design  
 
 | Tool                                          | Description                                                                                                                                                                |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -87,7 +89,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Remove.bg](https://www.remove.bg/)           | Function: AI-powered background removal for images. Advantage: Simple and fast, suitable for e-commerce, social media, and design purposes.                              |
 
 
-#### 6 [↑](#-content) AI Education  
+#### 6 [↑](#-content) Education  
 
 | Tool                                              | Description                                                                                                                                                                         |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -99,7 +101,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Brainly](https://www.brainly.com/)               | Function: AI-powered educational community for solving academic questions. Advantage: Provides quick answers with detailed explanations to help students understand the material.   |
 
 
-#### 7 [↑](#-content) AI Productivity  
+#### 7 [↑](#-content) Productivity  
 
 | Tool                                           | Description                                                                                                                                                          |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
